@@ -21,7 +21,7 @@ The variables which are significant to predict the demand for bikes are:
 - windspeed
 - seasons: spring, summer, winter
 - months: july, september
-- day of the week: saturday, sunday
+- day of the week: sunday
 - weather: partly cloudy, scattered clouds
 
 ## Technologies Used
